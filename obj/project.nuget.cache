@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lFQ1Z8A56nMq1kUdLx0t/BlkFM0bX4boigOIEj6Ho7UNgMpJEU4VexaAn+7S7POwERK8he5P3bXmdOf2K4ntWg==",
+  "dgSpecHash": "w1KP8jr5rPA3fa8hgHzRKzAHgOKCtl3liu3+VGKsLD9OS3J4BCdnt7ehVSPXJd9o8OrVZD5fc8ZQANaoKoLTOA==",
   "success": true,
   "projectFilePath": "D:\\PROJECTS\\_LesJackson\\MvcRestApiCore3_Commander\\MvcRestApiCore3_Commander.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\shami\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\shami\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\shami\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\shami\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\shami\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
