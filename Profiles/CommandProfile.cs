@@ -8,7 +8,10 @@ namespace MvcRestApiCore3_Commander.Profiles
     {
         public CommandProfile()
         {
-            CreateMap<Command, CommandReadDtos>();
+            // Source -> Target
+            CreateMap<Command, CommandReadDto>();
+            CreateMap<CommandCreateDto, Command>();
+            CreateMap<CommandUpdateDto, Command>();
         }
     }
 }
